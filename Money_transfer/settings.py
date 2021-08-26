@@ -79,11 +79,11 @@ WSGI_APPLICATION = 'Money_transfer.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'transactions',
-        'USER': 'paul',
-        'PASSWORD': '555555',
-        'HOST': 'localhost',
-        'PORT': '5433'
+        'NAME': 'd6pikl5q7e29pc',
+        'USER': 'jnogqfqgtvndzi',
+        'PASSWORD': '14e8253855d03802b8aff77edd6936fd5a032b58bb48ed36af8b22331bd25241',
+        'HOST': 'ec2-54-73-147-133.eu-west-1.compute.amazonaws.com',
+        'PORT': '5432'
 
     }
 }
